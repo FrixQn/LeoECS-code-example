@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dad3f962f5691a4a8388db018ea8211, type: 3}
+  m_Name: GameConfigsContainer
+  m_EditorClassIdentifier: 
+  _playerConfig: {fileID: 11400000, guid: 123bdedfb32caf949aafda018bf96cc2, type: 2}
+  _cameraConfig: {fileID: 11400000, guid: 530e1ac27d918ff4085b6364040544ea, type: 2}
+  _physicsConfig: {fileID: 11400000, guid: 8dcffdc434331a94cb89736960b5dfdb, type: 2}
+  _lightingConfig: {fileID: 11400000, guid: 1a3df92785e122c40bc1a23911567e39, type: 2}
+  _ballonsSystemConfig: {fileID: 11400000, guid: 7cc9465730c80e44686e6d3a413cc8e3, type: 2}

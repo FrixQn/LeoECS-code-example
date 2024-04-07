@@ -1,0 +1,16 @@
+{
+    "name": "ECSExample.Presenters",
+    "rootNamespace": "ECSExample.Presenters",
+    "references": [
+        "GUID:8d49c5b90bc2df347bcde60424386e7b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
